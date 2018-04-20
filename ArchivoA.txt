@@ -3,4 +3,4 @@ hola amigos
 Linea 2 
 Es un placer conocerlos
 Linea 3
-Estos videos son interesantes y muy educativos
+Estos videos son interesantes y muy educativos.
